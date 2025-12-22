@@ -1,0 +1,5 @@
+print("Hello World!")
+print(5)
+print("Bye!")
+print(24*86)
+print("The Road not taken!")
