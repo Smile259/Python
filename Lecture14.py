@@ -22,3 +22,12 @@ while(y>0):
     y = y-1
 else:
     print("I am inside else!!!")
+
+# Do While loop
+
+i = 0
+while True:
+    print(i)
+    i = i+1
+    if(i % 100 == 0):
+        break
